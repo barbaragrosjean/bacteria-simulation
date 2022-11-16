@@ -1,0 +1,16 @@
+--------- Help ----------------
+CC : current control (in red)
+MW : mouse wheel
+-------------------------------
+Space	: toggle pause
+D	: toggle debug mode
+R	: resets simulation
+MW	: Zoom
+Esc	: close window
+C	: refresh config
+Arrows	: move simulation
+	view
+Tab	: switch to next
+	control
+PageUp	: increase CC
+PageDown  : decrease CC
